@@ -1,0 +1,14 @@
+# A summary from L1 to L5
+# @ Michael
+
+Finishing lecture 1 to 5, one should understand:
+
+* differences of mutable and immutable datatype
+* List and Dictionaries are extremely useful and they make python unique
+* you should be aware of printting format when it comes to
+* know when you should use: pass, continue and break
+* prefer generator than more complexed loop
+* please practice enumerate, zip
+* generator + list = dataset you want
+* list, dictionaries comprehensions
+* First-class functions

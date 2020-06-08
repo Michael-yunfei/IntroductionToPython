@@ -3,6 +3,7 @@
 This is my repository for people who want to learn Python. The main textbook I used in this course is:
 
 * Introduction to Computation and Programming Using Python, by *John V. Guttag*
+* Learning Python, by *Mark Lutz*
 
 The outline of this course is based on the module from Duke Univeristy:
 
@@ -17,5 +18,4 @@ Of course, there are many fantastic online resources right now. Personally, I vi
 
 * [MIT OpenCourseWare](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/)
 * [Harvard CS50](https://cs50.harvard.edu/x/2020/)
-* [Coursera](https://www.coursera.org)
-* [Edx](https://www.edx.org)
+* [Web Programming with Python and JavaScript](https://cs50.harvard.edu/web/2018/)

@@ -4,6 +4,8 @@ This is my repository for people who want to learn Python. The main textbook I u
 
 * Introduction to Computation and Programming Using Python, by *John V. Guttag*
 * Learning Python, by *Mark Lutz*
+* mastering object-oriented python, by *steven F.Lott*
+
 
 The outline of this course is based on the module from Duke Univeristy:
 

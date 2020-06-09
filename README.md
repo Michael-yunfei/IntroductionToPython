@@ -7,9 +7,10 @@ This is my repository for people who want to learn Python. The main textbook I u
 * mastering object-oriented python, by *steven F.Lott*
 
 
-The outline of this course is based on the module from Duke Univeristy:
+The outline of this course has been influeced by:
 
 * [Data Science Tools](http://people.duke.edu/~ccc14/bios-821-2017/index.html)
+* [Mathematical Python](https://www.math.ubc.ca/~pwalls/math-python/)
 
 I also found the following books very uself:
 

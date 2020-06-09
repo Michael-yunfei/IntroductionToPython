@@ -1,0 +1,9 @@
+# A summary from L6 to L9
+# @ Michael
+
+
+I am trying to focus on OOB by going through classes and magic methods
+
+It's very important to know the basic structure and understand the philosophy
+bechind class and when and why you should use them. Once you know these, all
+you need is to practice more in the future. 

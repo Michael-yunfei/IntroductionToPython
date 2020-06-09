@@ -5,7 +5,7 @@
 school = open('File/school.txt', 'r')
 school_str = school.read()
 len(school_str)
-
+school.close()
 # The following code will not work
 # school = open('File/school.txt', 'r')
 # school.read()
@@ -15,4 +15,4 @@ len(school_str)
 # readlines
 # Returns a list of strings, each representing a single line of the file
 school = open('File/school.txt', 'r')
-school.readlines()
+len(school.readlines())
